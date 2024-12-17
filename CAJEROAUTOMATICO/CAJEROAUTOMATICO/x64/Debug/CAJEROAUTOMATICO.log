@@ -1,0 +1,12 @@
+﻿  CAJEROAUTOMATICO.cpp
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(33,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(36,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(39,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(42,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(45,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(104,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(107,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(110,32): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(113,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\CAJEROAUTOMATICO\CAJEROAUTOMATICO.cpp(116,31): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  CAJEROAUTOMATICO.vcxproj -> C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\CAJEROAUTOMATICO\x64\Debug\CAJEROAUTOMATICO.exe

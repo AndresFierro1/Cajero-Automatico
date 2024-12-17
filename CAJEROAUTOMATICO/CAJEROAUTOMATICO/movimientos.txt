@@ -1,0 +1,66 @@
+Andres Fierro: Retiro - $500
+Andres Fierro: Consulta saldo - $6000
+Andres Fierro: Depósito - $2400
+Andres: Consulta saldo - $1650
+Andres: Pago de Agua - $600
+Andres Fierro: Consulta saldo - $8900
+Andres Fierro: Retiro - $-5000
+Andres Fierro: Consulta saldo - $13900
+Andres Fierro: Depósito - $500
+Andres Fierro: Consulta saldo - $14400
+Andres Fierro: Retiro - $9500
+Andres Fierro: Consulta saldo - $4900
+Andres Fierro: Pago de Internet - $690
+Andres Fierro: Consulta saldo - $4210
+Andres Fierro: Consulta saldo - $4210
+Andres Fierro: Consulta saldo - $4210
+Andres Fierro: Retiro - $0.1
+Andres Fierro: Consulta saldo - $4209.9
+Andres Fierro: Depósito - $1000
+Andres Fierro: Consulta saldo - $5209.9
+Andres Fierro: Transferencia a 43569 - $5000
+Andres Fierro: Consulta saldo - $209.9
+Andres Fierro: Pago de Agua - $200
+Andres Fierro: Cambio de NIP - $0
+Andres Fierro: Consulta saldo - $9.9
+Andres Fierro: Depósito - $1
+Andres Fierro: Depósito - $1000
+Andres Fierro: Cambio de NIP - $0
+Andres Fierro: Depósito - $2
+Andres: Consulta saldo - $1050
+Andres: Retiro - $20 - Billetes - 20 - 1
+Andres: Consulta saldo - $1030
+Andres: Retiro - $140 - Billetes - 100 - 1, 20 - 2
+Andres: Depósito - $50
+Andres Fierro: Consulta saldo - $1012.9
+Andres Fierro: Retiro - $70 - Billetes - 50 - 1, 20 - 1
+Andres Fierro: Depósito - $70
+Andres Fierro: Depósito - $90
+Andres Fierro: Depósito - $2370
+Andres Fierro: Depósito - $10000
+Andres Fierro: Consulta saldo - $13472.9
+Andres Fierro: Retiro - $2250 - Billetes - 500 - 4, 200 - 1, 50 - 1
+Andres Fierro: Retiro - $2290 - Billetes - 500 - 4, 200 - 1, 50 - 1, 20 - 2
+Andres Fierro: Consulta saldo - $8932.9
+Andres Fierro: Retiro - $3400 - Billetes - 500 - 6, 200 - 2
+Andres Fierro: Cambio de NIP - $0
+Andres Fierro: Depósito - $3490
+Andres Fierro: Transferencia a 5342543 - $2000
+Andres Fierro: Consulta saldo - $7022.9
+Andres Fierro: Retiro - $2500 - Billetes - 500 - 5
+Andres Fierro: Depósito - $400
+Andres Fierro: Consulta saldo - $4922.9
+Andres Fierro: Retiro - $40 - Billetes - 20 - 2
+Andres Fierro: Retiro - $70 - Billetes - 50 - 1, 20 - 1
+Andres Fierro: Retiro - $90 - Billetes - 50 - 1, 20 - 2
+Andres Fierro: Retiro - $590 - Billetes - 500 - 1, 50 - 1, 20 - 2
+Andres Fierro: Consulta saldo - $4132.9
+Andres Fierro: Retiro - $2690 - Billetes - 500 - 5, 100 - 1, 50 - 1, 20 - 2
+Andres Fierro: Consulta saldo - $1442.9
+Andres Fierro: Depósito - $2500
+Andres Fierro: Retiro - $1650 - Billetes - 500 - 3, 100 - 1, 50 - 1
+Andres Fierro: Pago de Internet - $468
+Andres Fierro: Consulta saldo - $1824.9
+Andres Fierro: Retiro - $20 - Billetes - 20 - 1
+Andres Fierro: Retiro - $1450 - Billetes - 500 - 2, 200 - 2, 50 - 1
+Andres Fierro: Cambio de NIP - $0
